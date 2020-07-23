@@ -61,7 +61,7 @@ affinity: {}
 # Additional volmes to pass to the `Pod`s managed by `DaemonSet`.
 extraVolumes: []
 
-# Additional volme mounts to pass to the `vector` container of the `Pod`s
+# Additional volume mounts to pass to the `vector` container of the `Pod`s
 # managed by `DaemonSet`.
 extraVolumeMounts: []
 
